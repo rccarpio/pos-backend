@@ -16,9 +16,9 @@ Backend service for the POS (Point of Sale) application, built with Ruby on Rail
 
 Follow these steps to set up the project locally:
 
+```bash
 # Clone the repository
 
-```bash
 git clone https://github.com/rccarpio/pos-backend.git
 cd pos-backend
 
