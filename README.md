@@ -6,8 +6,8 @@ Backend service for the POS (Point of Sale) application, built with Ruby on Rail
 
 ## 📦 Tech Stack
 
-- **Ruby**: 2.5.9  
-- **Rails**: 5.2.8.1  
+- **Ruby**: 3.1.4  
+- **Rails**: 6.1
 - **sqlite**: 3
 
 ---
