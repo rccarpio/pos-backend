@@ -12,7 +12,7 @@
 
 ActiveRecord::Schema.define(version: 2025_09_04_100425) do
 
-  create_table "products", options: "ENGINE=InnoDB DEFAULT CHARSET=utf8", force: :cascade do |t|
+  create_table "products", force: :cascade do |t|
     t.string "code"
     t.string "name"
     t.decimal "price", precision: 19, scale: 4
